@@ -3,8 +3,12 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+  <!--
 
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+  
+  -->
+  
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -20,14 +24,24 @@
             {%- endif -%}
         </ul>
       </div>
-
+	  
+	  <div class="footer-col footer-col-3" >
+			<a href="https://www.menditect.com">
+				<img src="https://menditect.com/media/2021/04/menditec-logo-aangepast.png" alt="Logo Menditect">
+			</a>
+      </div>
+  <!--
       <div class="footer-col footer-col-2">
         {%- include social.html -%}
       </div>
 
+   
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>
+	  
+  -->
+  
     </div>
 
   </div>
