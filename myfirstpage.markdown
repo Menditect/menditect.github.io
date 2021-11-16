@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Beste mensen"
 permalink: /myfirstpage/
-
+---
 **Hallo** 
 
 Dit is mijn eerste page
