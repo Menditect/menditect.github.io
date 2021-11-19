@@ -1,0 +1,15 @@
+{% assign navurl = page.url | remove: 'index.html' %}
+<ul>
+
+{% for path in page_paths %}
+   {%- assign my_page = site.pages | where: "path", path | first -%}
+   			{%- if my_page.menuinclude -%}
+	<li>
+		<a href="{{ my_page.url }}">
+				<b>{{ my_page.title }}</b>
+		</a>
+	</li>
+    			{%- endif -%}
+
+{% endfor %}
+</ul>

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Definition/Hutsefluts"
+title: "Definitions"
+menuinclude: "Definitions for sprint 2"
 ---
 # Definitions 
 
