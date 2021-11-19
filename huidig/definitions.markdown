@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Definitions"
+title: "Definition/Hutsefluts"
 permalink: /definition/hutsefluts/
 ---
 # Definitions 
