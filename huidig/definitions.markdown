@@ -2,6 +2,7 @@
 layout: page
 title: "MTA definitions"
 permalink: /definitions/
+
 ---
 # Definitions 
 
@@ -12,6 +13,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend ferment
 
 Nunc vel felis diam. Donec non aliquet ligula, vel luctus libero. Etiam vitae nunc augue. Curabitur vitae ipsum eu massa sollicitudin bibendum. Suspendisse sollicitudin vel mauris et mollis. Suspendisse luctus porta arcu, id tempor sem placerat quis. Aliquam mauris leo, efficitur at metus id, hendrerit suscipit mauris. Morbi pulvinar ipsum vitae felis tristique, ut vestibulum justo auctor. Nunc ante lectus, euismod vel felis quis, tempus efficitur leo. Phasellus euismod vitae urna ac feugiat. Aenean sagittis purus erat, vitae porta ex hendrerit in. Duis sit amet leo facilisis, dapibus eros vitae, facilisis ante.
 
+
+<div id="tcnf" /> 
 ## Test configuration
 
 **A test configuration is an executable test script** 
@@ -22,6 +25,7 @@ Vivamus maximus bibendum dolor, non vulputate elit. Duis nec enim vitae diam orn
 ### Create a new test configuration
 Quisque ut lectus congue, convallis eros imperdiet, sagittis metus. Quisque tincidunt, leo eu mattis sagittis, risus augue viverra massa, id elementum massa dolor sollicitudin nulla. Sed placerat imperdiet quam, at hendrerit augue egestas sed. Sed dignissim scelerisque purus a pellentesque. Suspendisse ac placerat tortor, sed pellentesque elit. Pellentesque augue ex, tristique a posuere nec, finibus sit amet risus. Proin a velit eget massa varius varius. Phasellus in imperdiet orci.
 
+<div id="ttrn" /> 
 ## Test run
 
 **A test run is an executed test configuration** 
