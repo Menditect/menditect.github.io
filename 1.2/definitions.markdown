@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "MTA definitions"
-permalink: /definitions/
 
 ---
 # Definitions 
